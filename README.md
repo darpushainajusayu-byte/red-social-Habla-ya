@@ -46,6 +46,15 @@ Proyecto creado por Darwis Alberto Pushaina Jusayu 💻
 📅 Año: 2025
 🌐 GitHub: https:https://github.com/darpushainajusayu-byte/red-social-Habla-ya
 
-imagenes
+## 📸 Capturas de pantalla
+
+### 🏠 Página de inicio de sesión
+![Inicio de sesión](assets/inicio%20de%20sesion.png)
+
+### 💬 Pantalla principal de HablaYa
+![Pantalla principal](assets/dentro%20de%20Habla%20ya!.png)
+
+### 🔷 Logo de la aplicación
+![Logo HablaYa](assets/habla%20ya.png)
 
 
