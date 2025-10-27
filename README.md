@@ -29,3 +29,23 @@ El objetivo es conectar personas en un ambiente amigable y educativo.
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/darpushainajusayu-byte/red-social-Habla-ya
+
+   🧠 Objetivo del proyecto
+
+Este proyecto fue desarrollado como parte de un ejercicio educativo para aprender sobre:
+
+Desarrollo web front-end.
+
+Uso de Firebase para manejo de usuarios y publicaciones.
+
+Buenas prácticas en diseño y estructura de código.
+
+✨ Créditos
+
+Proyecto creado por Darwis Alberto Pushaina Jusayu 💻
+📅 Año: 2025
+🌐 GitHub: https:https://github.com/darpushainajusayu-byte/red-social-Habla-ya
+
+imagenes
+
+
